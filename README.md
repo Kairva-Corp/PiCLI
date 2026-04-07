@@ -1,4 +1,4 @@
-# PiCLI — ASCII Art Generator
+# PiCLI — Image to ASCII Art Generator
 
 PiCLI is a modern, high-performance terminal tool for converting images into stunning ASCII art. Built with **Textual**, it features a sleek, dark-themed interface and supports full-color conversions.
 
