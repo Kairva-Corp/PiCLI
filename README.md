@@ -5,7 +5,6 @@ PiCLI is a modern, high-performance terminal tool for converting images into stu
 <div align="center">
   <img src="images/cod.png" width="45%" />
   <img src="images/ronaldo1.png" width="45%" />
-  <p><em>Previews generated directly from the images directory.</em></p>
 </div>
 
 ## 🚀 Features
